@@ -1,0 +1,22 @@
+@charset "utf-8";
+.jumbotron {
+    /* margin-bottom: 0px;
+    background-image: url(../images/logo/logoC.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em; */
+    background-color: #6B29A0;
+}
+
+img {
+    width: 100%; /* make sure to define width to fill container */
+    height: 100px; /* define the height in pixels or make sure   */
+}
+
+/* a {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	background-color: #6B29A0;
+} */
